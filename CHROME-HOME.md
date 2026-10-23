@@ -17,3 +17,7 @@ Copyright 2026 Yawar B (wayri). Source-available, not open source. Paid software
 Recognized KiCad 8, 9 and 10 constructs are supported within documented limits. KiCad 10 has native reference fixtures; 8/9 coverage is narrower. Newer versions are warned previews. [Version matrix and feature limits](COMPATIBILITY.md).
 
 Prefer reviewing beside your code? [Install the VS Code edition](https://marketplace.visualstudio.com/items?itemName=wayri.kicad-visual-review). Both editions work independently and portable exports transfer supported review state. Browser-specific account and standalone engineering tools are not promised in VS Code. Chrome Web Store publication is pending.
+
+## GitHub project
+
+[https://github.com/wayri/KiCad-Github-View](https://github.com/wayri/KiCad-Github-View) — currently private; public access is planned.
