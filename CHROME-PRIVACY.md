@@ -3,7 +3,7 @@
 **KiCad Visual Review for GitHub and GitLab**  
 Effective date: 23 October 2026  
 Publisher: Yawar B (wayri)  
-Contact: support.kiview@sigharmonic.com
+Contact: support@sigharmonic.com
 
 This policy covers the Chrome extension, including its local project workspace and supported GitHub/GitLab integrations. It is separate from companion-app policies.
 
@@ -41,4 +41,4 @@ Storage supports local settings and drafts; offscreen supports the Chromium cred
 
 ## Changes
 
-Material changes will be reflected in a dated policy update. Review the current policy before sharing confidential information. Questions or privacy requests: support.kiview@sigharmonic.com. Do not send credentials or private project files with a request.
+Material changes will be reflected in a dated policy update. Review the current policy before sharing confidential information. Questions or privacy requests: support@sigharmonic.com. Do not send credentials or private project files with a request.
